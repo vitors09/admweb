@@ -61,7 +61,7 @@ jobs:
         with:
           app-name: 'painelcarpro'
           slot-name: 'Production'
-           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AFD8D31A0AC41E5B56C586654C81CF5 }}
+      
            
           package: .
           
